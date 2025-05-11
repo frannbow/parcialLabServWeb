@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Parcial.API\\Parcial.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WheatherForecast\\WheatherForecast.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YF58qsse+rSJjf75xqgeoF3O0trevNC5QxpjcV5FrjU=",
+  "Source": "WheatherForecast",
+  "BasePath": "_content/WheatherForecast",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

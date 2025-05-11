@@ -37,6 +37,7 @@ builder.Services.AddControllers();
 //Add Services
 
 builder.Services.AddScoped<iProductServices, ProductServices>();
+builder.Services.AddScoped<iWeatherServices, WeatherServices>();
 
 //Add FluentValidation
 builder.Services.AddValidatorsFromAssemblyContaining<ProductValidator>();

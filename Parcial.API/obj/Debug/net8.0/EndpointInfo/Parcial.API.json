@@ -63,7 +63,7 @@
           },
           "price": {
             "maximum": 100000000,
-            "minimum": 0,01,
+            "minimum": 0.01,
             "type": "number",
             "format": "double"
           },

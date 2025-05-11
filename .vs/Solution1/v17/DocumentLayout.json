@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\",
+  "WorkspaceRootPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|c:\\users\\franco\\desktop\\clases\\laboartorio de app web server\\parcial\\solution1\\parcial.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|solutionrelative:parcial.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|c:\\users\\franco\\desktop\\clases\\laboartorio de app web server\\parcial\\solution1\\parcial.api\\profiles\\productcontrollerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|solutionrelative:parcial.api\\profiles\\productcontrollerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|c:\\users\\franco\\desktop\\clases\\laboartorio de app web server\\parcial\\solution1\\parcial.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|solutionrelative:parcial.api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B11B929-196E-4546-80A8-A5F91FDA1209}|Parcial.Aplication\\Parcial.Aplication.csproj|c:\\users\\franco\\desktop\\clases\\laboartorio de app web server\\parcial\\solution1\\parcial.aplication\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B11B929-196E-4546-80A8-A5F91FDA1209}|Parcial.Aplication\\Parcial.Aplication.csproj|c:\\users\\nb oficina\\onedrive - constructora sudamericana\\escritorio\\proyectos\\parcial\\parciallabservweb\\parcial.aplication\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B11B929-196E-4546-80A8-A5F91FDA1209}|Parcial.Aplication\\Parcial.Aplication.csproj|solutionrelative:parcial.aplication\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B11B929-196E-4546-80A8-A5F91FDA1209}|Parcial.Aplication\\Parcial.Aplication.csproj|c:\\users\\nb oficina\\onedrive - constructora sudamericana\\escritorio\\proyectos\\parcial\\parciallabservweb\\parcial.aplication\\services\\weatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B11B929-196E-4546-80A8-A5F91FDA1209}|Parcial.Aplication\\Parcial.Aplication.csproj|solutionrelative:parcial.aplication\\services\\weatherservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|c:\\users\\nb oficina\\onedrive - constructora sudamericana\\escritorio\\proyectos\\parcial\\parciallabservweb\\parcial.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A6FEDBE-4AEB-41CE-8E5D-0C7D3B2F119F}|Parcial.API\\Parcial.API.csproj|solutionrelative:parcial.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DFF608-4520-4433-BD4E-EA56B464A500}|WheatherForecast\\WheatherForecast.csproj|c:\\users\\nb oficina\\onedrive - constructora sudamericana\\escritorio\\proyectos\\parcial\\parciallabservweb\\wheatherforecast\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DFF608-4520-4433-BD4E-EA56B464A500}|WheatherForecast\\WheatherForecast.csproj|solutionrelative:wheatherforecast\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.API\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Parcial.API\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.API\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Parcial.API\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wB0AAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Parcial.Aplication\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Parcial.Aplication\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Parcial.Aplication\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Parcial.Aplication\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T02:17:12.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductControllerProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.API\\Profiles\\ProductControllerProfile.cs",
-              "RelativeDocumentMoniker": "Parcial.API\\Profiles\\ProductControllerProfile.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.API\\Profiles\\ProductControllerProfile.cs",
-              "RelativeToolTip": "Parcial.API\\Profiles\\ProductControllerProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:28:45.751Z",
+              "WhenOpened": "2025-05-11T19:28:54.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductServices.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.Aplication\\Services\\ProductServices.cs",
-              "RelativeDocumentMoniker": "Parcial.Aplication\\Services\\ProductServices.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.Aplication\\Services\\ProductServices.cs",
-              "RelativeToolTip": "Parcial.Aplication\\Services\\ProductServices.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAtwEEAAAA5AAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\WheatherForecast\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WheatherForecast\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\WheatherForecast\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WheatherForecast\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:24:05.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T18:02:41.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.API\\Program.cs",
-              "RelativeDocumentMoniker": "Parcial.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Parcial.API\\Program.cs",
-              "RelativeToolTip": "Parcial.API\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAUwDMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Parcial.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Parcial.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Parcial.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Parcial.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T18:00:54.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherServices.cs",
+              "DocumentMoniker": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Parcial.Aplication\\Services\\WeatherServices.cs",
+              "RelativeDocumentMoniker": "Parcial.Aplication\\Services\\WeatherServices.cs",
+              "ToolTip": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Parcial.Aplication\\Services\\WeatherServices.cs",
+              "RelativeToolTip": "Parcial.Aplication\\Services\\WeatherServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T01:21:57.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T18:00:28.192Z"
             }
           ]
         }

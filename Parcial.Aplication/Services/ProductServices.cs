@@ -17,14 +17,15 @@ namespace Parcial.Aplication.Services
         private readonly IProductRepository _repository;
         private readonly ProductValidator _validations;
         private readonly IMapper _mapper;
+        private readonly iWeatherServices _weatherServices;
 
-        public ProductServices(IProductRepository repository,ProductValidator validations,IMapper mapper)
+        public ProductServices(IProductRepository repository,ProductValidator validations,IMapper mapper, iWeatherServices weatherServices)
         {
             _repository = repository; 
             _validations = validations;
             _mapper = mapper;
+            _weatherServices = weatherServices;
         }
-
 
         public async Task<ProductDTO> PostProduct(ProductDTO product)
         {
@@ -64,6 +65,8 @@ namespace Parcial.Aplication.Services
         {
            
             var products = await _repository.ListAsync();
+
+            var wather = await _weatherServices.GetAllWeatherInfo();    
             
             var results = _mapper.Map<List<ProductDTO>>(products);
 
