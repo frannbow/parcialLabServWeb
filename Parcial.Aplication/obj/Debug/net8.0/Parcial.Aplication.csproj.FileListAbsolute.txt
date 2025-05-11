@@ -1,0 +1,15 @@
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\bin\Debug\net8.0\Parcial.Aplication.deps.json
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\bin\Debug\net8.0\Parcial.Aplication.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\bin\Debug\net8.0\Parcial.Aplication.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\bin\Debug\net8.0\Parcial.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\bin\Debug\net8.0\Parcial.Domain.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.AssemblyInfo.cs
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial..A307E27A.Up2Date
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\refint\Parcial.Aplication.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\Parcial.Aplication.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Aplication\obj\Debug\net8.0\ref\Parcial.Aplication.dll
