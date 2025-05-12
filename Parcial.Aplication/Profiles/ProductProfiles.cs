@@ -15,6 +15,8 @@ namespace Parcial.Aplication.Profiles
         public ProductProfiles()
         {
             CreateMap<ProductDTO,Product>().ReverseMap();
+            CreateMap<UpdatedProductDTO, Product>();
         }
+
     }
 }

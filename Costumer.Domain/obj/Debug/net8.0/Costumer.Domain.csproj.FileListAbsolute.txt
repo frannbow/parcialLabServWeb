@@ -1,0 +1,12 @@
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\bin\Debug\net8.0\Costumer.Domain.deps.json
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\bin\Debug\net8.0\Costumer.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\bin\Debug\net8.0\Costumer.Domain.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.AssemblyInfo.cs
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.sourcelink.json
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\refint\Costumer.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\Costumer.Domain.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Domain\obj\Debug\net8.0\ref\Costumer.Domain.dll

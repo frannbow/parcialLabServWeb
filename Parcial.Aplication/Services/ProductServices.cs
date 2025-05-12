@@ -16,31 +16,22 @@ namespace Parcial.Aplication.Services
 
         private readonly IProductRepository _repository;
         private readonly ProductValidator _validations;
+        private readonly idValidator _idvalidator;
         private readonly IMapper _mapper;
         private readonly iWeatherServices _weatherServices;
 
-        public ProductServices(IProductRepository repository,ProductValidator validations,IMapper mapper, iWeatherServices weatherServices)
+        public ProductServices(IProductRepository repository,ProductValidator validations,IMapper mapper, iWeatherServices weatherServices, idValidator idvalidator)
         {
             _repository = repository; 
             _validations = validations;
+            _idvalidator = idvalidator;
             _mapper = mapper;
             _weatherServices = weatherServices;
         }
 
         public async Task<ProductDTO> PostProduct(ProductDTO product)
         {
-            //var ProductEntity = new Product()
-            //{
-            //    Id = product.Id,    
-            //    Name = product.Name,
-            //    Price = product.Price,
-            //    Description = product.Description,
-            //};
-
             var ProductEntity = _mapper.Map<Product>(product);
-
-
-
 
             var productvalidator = _validations.Validate(ProductEntity);
             if (!productvalidator.IsValid)
@@ -56,9 +47,17 @@ namespace Parcial.Aplication.Services
             throw new NotImplementedException();
         }
 
-        public Task<Product> GetByIdAsync(int id)
+        public async Task<Product> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            int productId = id;
+            var validation = _idvalidator.Validate(productId);
+            if(!validation.IsValid)
+            {
+                var errores = string.Join(" | ", validation.Errors.Select(x => x.ErrorMessage));
+                throw new ArgumentException($"Id no válido: {errores}");
+            }
+            var result = await _repository.GetAsync(productId);
+            return result;
         }
 
         public async Task<List<ProductDTO>> ListAsync()
@@ -66,7 +65,7 @@ namespace Parcial.Aplication.Services
            
             var products = await _repository.ListAsync();
 
-            var wather = await _weatherServices.GetAllWeatherInfo();    
+            //var weather = await _weatherServices.GetAllWeatherInfo();    
             
             var results = _mapper.Map<List<ProductDTO>>(products);
 
@@ -74,9 +73,27 @@ namespace Parcial.Aplication.Services
 
         }
 
-        public Task<Product> UpdateAsync(ProductDTO product)
+        public async Task<Product> UpdateAsync(int id,Product product)
         {
-            throw new NotImplementedException();
+            var updatedProduct = _mapper.Map<Product>(product);
+            var productId = id;
+            var productvalidator = _validations.Validate(updatedProduct);
+            var validation = _idvalidator.Validate(productId);
+
+            if (!productvalidator.IsValid)
+            {
+                var errores = string.Join(" | ", productvalidator.Errors.Select(x => x.ErrorMessage));
+                throw new ArgumentException($"Producto no válido: {errores}");
+            }
+           
+            if (!validation.IsValid)
+            {
+                var errores = string.Join(" | ", validation.Errors.Select(x => x.ErrorMessage));
+                throw new ArgumentException($"Id no válido: {errores}");
+            }
+            var result = await _repository.updateAsync(id,updatedProduct);
+            return result;
+
         }
     }   
 }

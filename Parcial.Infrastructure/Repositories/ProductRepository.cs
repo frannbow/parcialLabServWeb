@@ -25,9 +25,10 @@ namespace Parcial.Infrastructure.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<Product> GetAsync(int id)
+        public async Task<Product> GetAsync(int id)
         {
-            throw new NotImplementedException();
+            var product = await _context.Products.FirstOrDefaultAsync(x => x.Id == id);
+            return product;
         }
 
         public async Task<List<Product>> ListAsync()
@@ -37,9 +38,20 @@ namespace Parcial.Infrastructure.Repositories
             return products;
         }
 
-        public Task updateAsync(Product product)
+        public async Task<Product> updateAsync(int id, Product product)
         {
-            throw new NotImplementedException();
+            var realProduct = await _context.Products.FindAsync(id);
+            if (realProduct == null)
+            {
+                throw new KeyNotFoundException($"Producto con ID {id} no encontrado.");
+            }
+
+            realProduct.Name = product.Name;
+            realProduct.Price = product.Price;
+            realProduct.Description = product.Description;
+            realProduct.isDeleted = product.isDeleted;
+            await _context.SaveChangesAsync();
+            return realProduct;
         }
     }
 }

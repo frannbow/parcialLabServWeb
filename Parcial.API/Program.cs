@@ -8,6 +8,13 @@ using Parcial.Aplication.Validations;
 using FluentValidation;
 using Parcial.Aplication.Profiles;
 using Parcial.API.Profiles;
+using MediatR;
+using System.Reflection;
+using Parcial.Aplication.Validations;
+using Parcial.Aplication.UseCases.Product.Queries;
+
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -46,6 +53,12 @@ builder.Services.AddValidatorsFromAssemblyContaining<ProductValidator>();
 builder.Services.AddAutoMapper(typeof(ProductProfiles));
 builder.Services.AddAutoMapper(typeof(ProductControllerProfile));
 
+//Add MediatR
+builder.Services.AddMediatR(config =>
+{
+    config.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly());
+    config.RegisterServicesFromAssembly(typeof(Register).Assembly);
+});
 
 var app = builder.Build();
 

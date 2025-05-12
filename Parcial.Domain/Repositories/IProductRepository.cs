@@ -8,7 +8,7 @@ namespace Parcial.Domain.Repositories
 
         Task<Product> GetAsync(int id);
 
-        Task updateAsync (Product product);
+        Task <Product>updateAsync (int id, Product product);
 
         Task DeleteAsync(int id);
 

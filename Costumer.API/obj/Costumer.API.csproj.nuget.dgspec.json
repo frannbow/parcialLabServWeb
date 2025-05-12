@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.API\\Costumer.API.csproj": {}
+    "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.API\\Costumer.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.API\\Costumer.API.csproj": {
+    "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.API\\Costumer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.API\\Costumer.API.csproj",
+        "projectUniqueName": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.API\\Costumer.API.csproj",
         "projectName": "Costumer.API",
-        "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.API\\Costumer.API.csproj",
-        "packagesPath": "C:\\Users\\NB Oficina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.API\\obj\\",
+        "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.API\\Costumer.API.csproj",
+        "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NB Oficina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Aplication\\Costumer.Aplication.csproj": {
-                "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Aplication\\Costumer.Aplication.csproj"
+              "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Aplication\\Costumer.Aplication.csproj": {
+                "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Aplication\\Costumer.Aplication.csproj"
               },
-              "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Domain\\Costumer.Domain.csproj": {
-                "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Domain\\Costumer.Domain.csproj"
+              "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Domain\\Costumer.Domain.csproj": {
+                "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Domain\\Costumer.Domain.csproj"
               },
-              "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Infrastur\\Costumer.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Infrastur\\Costumer.Infrastructure.csproj"
+              "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Infrastur\\Costumer.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Infrastur\\Costumer.Infrastructure.csproj"
               }
             }
           }
@@ -85,24 +85,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Aplication\\Costumer.Aplication.csproj": {
+    "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Aplication\\Costumer.Aplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Aplication\\Costumer.Aplication.csproj",
+        "projectUniqueName": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Aplication\\Costumer.Aplication.csproj",
         "projectName": "Costumer.Aplication",
-        "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Aplication\\Costumer.Aplication.csproj",
-        "packagesPath": "C:\\Users\\NB Oficina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Aplication\\obj\\",
+        "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Aplication\\Costumer.Aplication.csproj",
+        "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Aplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NB Oficina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -151,24 +151,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Domain\\Costumer.Domain.csproj": {
+    "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Domain\\Costumer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Domain\\Costumer.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Domain\\Costumer.Domain.csproj",
         "projectName": "Costumer.Domain",
-        "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Domain\\Costumer.Domain.csproj",
-        "packagesPath": "C:\\Users\\NB Oficina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Domain\\Costumer.Domain.csproj",
+        "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NB Oficina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -217,24 +217,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Infrastur\\Costumer.Infrastructure.csproj": {
+    "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Infrastur\\Costumer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Infrastur\\Costumer.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Infrastur\\Costumer.Infrastructure.csproj",
         "projectName": "Costumer.Infrastructure",
-        "projectPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Infrastur\\Costumer.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\NB Oficina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB Oficina\\OneDrive - CONSTRUCTORA SUDAMERICANA\\Escritorio\\Proyectos\\Parcial\\parcialLabServWeb\\Costumer.Infrastur\\obj\\",
+        "projectPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Infrastur\\Costumer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Franco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Franco\\Desktop\\Clases\\Laboartorio de App Web Server\\Parcial\\Solution1\\Costumer.Infrastur\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NB Oficina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -283,7 +283,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

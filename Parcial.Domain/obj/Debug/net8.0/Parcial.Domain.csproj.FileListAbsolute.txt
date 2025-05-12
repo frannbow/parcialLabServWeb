@@ -21,3 +21,4 @@ C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Pa
 C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Parcial\parcialLabServWeb\Parcial.Domain\obj\Debug\net8.0\refint\Parcial.Domain.dll
 C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Parcial\parcialLabServWeb\Parcial.Domain\obj\Debug\net8.0\Parcial.Domain.pdb
 C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Parcial\parcialLabServWeb\Parcial.Domain\obj\Debug\net8.0\ref\Parcial.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.Domain\obj\Debug\net8.0\Parcial.Domain.sourcelink.json

@@ -361,3 +361,6 @@ C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Pa
 C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Parcial\parcialLabServWeb\Parcial.API\obj\Debug\net8.0\Parcial.API.pdb
 C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Parcial\parcialLabServWeb\Parcial.API\obj\Debug\net8.0\Parcial.API.genruntimeconfig.cache
 C:\Users\NB Oficina\OneDrive - CONSTRUCTORA SUDAMERICANA\Escritorio\Proyectos\Parcial\parcialLabServWeb\Parcial.API\obj\Debug\net8.0\ref\Parcial.API.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Parcial.API\obj\Debug\net8.0\Parcial.API.sourcelink.json
