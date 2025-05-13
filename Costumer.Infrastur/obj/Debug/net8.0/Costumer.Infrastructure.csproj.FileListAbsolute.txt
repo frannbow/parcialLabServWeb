@@ -10,3 +10,9 @@ C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\C
 C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\obj\Debug\net8.0\refint\Costumer.Infrastructure.dll
 C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\obj\Debug\net8.0\Costumer.Infrastructure.pdb
 C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\obj\Debug\net8.0\ref\Costumer.Infrastructure.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\bin\Debug\net8.0\Costumer.Infrastructure.runtimeconfig.json
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\bin\Debug\net8.0\Costumer.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\bin\Debug\net8.0\Costumer.Domain.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\obj\Debug\net8.0\Costumer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\obj\Debug\net8.0\Costumer.2157B3A5.Up2Date
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Infrastur\obj\Debug\net8.0\Costumer.Infrastructure.genruntimeconfig.cache

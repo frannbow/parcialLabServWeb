@@ -14,7 +14,7 @@ namespace Parcial.Aplication.Services
         Task<Product> GetByIdAsync(int id);
         Task<ProductDTO> PostProduct(ProductDTO product);
         Task<Product> UpdateAsync(int id,Product product);
-        Task<Product> DeleteAsync(int id);
+        Task DeleteAsync(int id);
     }
     
 }

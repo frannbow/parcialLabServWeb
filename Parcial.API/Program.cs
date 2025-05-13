@@ -37,7 +37,7 @@ builder.Services.AddDbContext<AppDBContext>(
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
-builder.Services.AddScoped<iCostumerRepository, CostumerRepository>();
+
 
 builder.Services.AddControllers();
 

@@ -42,9 +42,23 @@ namespace Parcial.Aplication.Services
             await _repository.AddAsync(ProductEntity);
             return product;
         }
-        public Task<Product> DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var validation = _idvalidator.Validate(id);
+            if (!validation.IsValid)
+            {
+                var errores = string.Join(" | ", validation.Errors.Select(x => x.ErrorMessage));
+                throw new ArgumentException($"Producto no válido: {errores}");
+            }
+            var product = await _idvalidator.BeAValidId(id);
+            if (!product)
+            {
+                throw new ArgumentException($"No existe producto con el id: {id}");
+            }
+
+             await _repository.DeleteAsync(id);
+
+
         }
 
         public async Task<Product> GetByIdAsync(int id)

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "CostumerControllers.CostumerController",
+    "Method": "Getall",
+    "RelativePath": "api/Costumer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CostumerControllers.CostumerController",
+    "Method": "Create",
+    "RelativePath": "api/Costumer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Costumer.API.DTOs.CostumerEntityRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CostumerControllers.CostumerController",
+    "Method": "GetById",
+    "RelativePath": "api/Costumer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CostumerControllers.CostumerController",
+    "Method": "UpdateById",
+    "RelativePath": "api/Costumer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "costumer",
+        "Type": "Costumer.Aplication.DTO.UpdatedProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CostumerControllers.CostumerController",
+    "Method": "Delete",
+    "RelativePath": "api/Costumer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

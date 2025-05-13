@@ -12,6 +12,7 @@ using Parcial.Aplication.UseCases.Product.Queries;
 using Parcial.Aplication.UseCases.Product.Queries.ListProducts;
 using Parcial.Aplication.UseCases.Product.Commands.CreateProduct;
 using Parcial.Aplication.UseCases.Product.Queries.GetProductByID;
+using Parcial.Aplication.UseCases.Product.Commands.DeleteProduct;
 
 namespace PracticaAPI.Controllers
 {
@@ -104,6 +105,21 @@ namespace PracticaAPI.Controllers
                 
                 var result = await _Services.UpdateAsync(id, updatedProduct);
                 return Ok(result);
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            try
+            {
+               var deleteProductCommand = new DeleteProductCommand(id);
+                var result = await _mediator.Send(deleteProductCommand);
+                return Ok("Producto eliminado");
             }
             catch (ArgumentException ex)
             {

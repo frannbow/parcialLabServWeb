@@ -10,3 +10,7 @@ C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\C
 C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\obj\Debug\net8.0\refint\Costumer.Aplication.dll
 C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\obj\Debug\net8.0\Costumer.Aplication.pdb
 C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\obj\Debug\net8.0\ref\Costumer.Aplication.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\obj\Debug\net8.0\Costumer.Aplication.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\bin\Debug\net8.0\Costumer.Domain.dll
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\bin\Debug\net8.0\Costumer.Domain.pdb
+C:\Users\Franco\Desktop\Clases\Laboartorio de App Web Server\Parcial\Solution1\Costumer.Aplication\obj\Debug\net8.0\Costumer.BF89F9DF.Up2Date

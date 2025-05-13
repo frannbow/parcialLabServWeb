@@ -20,9 +20,16 @@ namespace Parcial.Infrastructure.Repositories
             await _context.SaveChangesAsync();
         }
 
-        public Task DeleteAsync(int id)
+        public async Task <Product> DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+            var product = _context.Products.FirstOrDefault(x => x.Id == id);
+            if (product == null)
+            {
+                throw new KeyNotFoundException($"no existe producto con id :{id} ");
+            }
+            product.isDeleted = true;
+            await _context.SaveChangesAsync();
+            return product;
         }
 
         public async Task<Product> GetAsync(int id)
@@ -33,8 +40,8 @@ namespace Parcial.Infrastructure.Repositories
 
         public async Task<List<Product>> ListAsync()
         {
-            var products = await _context.Products.ToListAsync();
-
+            var products = await _context.Products.Where(p => !p.isDeleted) 
+                                .ToListAsync();
             return products;
         }
 

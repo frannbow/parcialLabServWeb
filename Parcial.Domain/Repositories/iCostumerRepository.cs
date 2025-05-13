@@ -9,9 +9,9 @@ namespace Parcial.Domain.Repositories
 
             Task<Costumer> GetAsync(int id);
 
-            Task updateAsync(Costumer costumer);
+            Task<Costumer>updateAsync(Costumer costumer);
 
-            Task DeleteAsync(int id);
+            Task<Costumer>DeleteAsync(int id);
 
             Task<List<Costumer>> ListAsync();
 
